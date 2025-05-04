@@ -1,0 +1,8 @@
+{
+  "name": "exfiltrate-env-vars-during-install",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "prepare": "node prepare.js"
+  }
+}
